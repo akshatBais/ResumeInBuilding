@@ -1,0 +1,16 @@
+{
+  "experience" : [
+    {
+      "role": "MERN stack and JAVA/Spring Developer",
+      "company": "Tata Consultancy Services",
+      "description" : "Developed Covenant Monitoring Engine. Built logics for calculation of risks which included creating services/REST APIs . Designing the databse for Engine."
+    },
+    {
+      "role": "Software Testing Intern",
+      "company": "National Power corporation of India",
+      "description" : ""
+    }
+  ]
+
+
+}
